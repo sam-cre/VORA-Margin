@@ -1,0 +1,13 @@
+# Rust build output
+/target
+
+# Built installer (artifact of installer\vora-margin.nsi)
+/VORA-Margin-Setup.exe
+
+# Editor / OS cruft
+*.swp
+.DS_Store
+Thumbs.db
+
+# Note: user data (store.json) lives in the OS data dir, not here,
+# so there's nothing app-data to ignore in the repo.

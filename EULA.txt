@@ -1,0 +1,123 @@
+END USER LICENSE AGREEMENT - VORA-Margin
+
+Last updated: June 20, 2026
+
+This End User License Agreement ("Agreement") is a legal agreement between
+you ("you" or "Licensee") and VORA, operated by Sam Rogers ("VORA", "we",
+"us", or "Licensor"), for the VORA-Margin software application, including
+all associated files, built-in fee data, and documentation (collectively,
+the "Software").
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE
+BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS,
+DO NOT INSTALL OR USE THE SOFTWARE.
+
+--------------------------------------------------------------------------
+1. LICENSE GRANT
+--------------------------------------------------------------------------
+Subject to your compliance with this Agreement, VORA grants you a personal,
+non-exclusive, non-transferable, revocable license to install and use the
+Software on devices that you own or control, for your own business or
+personal pricing purposes.
+
+--------------------------------------------------------------------------
+2. RESTRICTIONS
+--------------------------------------------------------------------------
+You may not, and may not permit any third party to:
+  (a) sell, rent, lease, sublicense, distribute, or otherwise commercially
+      exploit the Software or make it available to any third party;
+  (b) reverse engineer, decompile, or disassemble the Software, except to
+      the extent that such activity is expressly permitted by applicable
+      law notwithstanding this limitation;
+  (c) modify, adapt, or create derivative works of the Software;
+  (d) remove, alter, or obscure any proprietary notices on the Software; or
+  (e) use the Software in any way that violates applicable law.
+
+--------------------------------------------------------------------------
+3. YOUR DATA AND PRIVACY
+--------------------------------------------------------------------------
+VORA-Margin runs entirely on your computer. Your product, collection, and
+pricing data are stored locally on your device (on Windows, under
+%APPDATA%\VORA\Margin) and are never transmitted to VORA or any third
+party. The Software does not require an account, does not connect to the
+internet, and collects no telemetry. You are solely responsible for
+backing up and safeguarding your data.
+
+--------------------------------------------------------------------------
+4. FEE DATA AND PRICING DISCLAIMER (IMPORTANT)
+--------------------------------------------------------------------------
+The Software includes built-in fee presets for third-party platforms (such
+as Stripe, PayPal, Square, Etsy, Depop, eBay, Poshmark, Mercari, and
+others) and computes estimated margins based on the figures you enter and
+the presets you select.
+
+These fee presets and all calculations are provided FOR INFORMATIONAL AND
+PLANNING PURPOSES ONLY. Platform fees change frequently and vary by
+country, category, account type, and promotion. VORA does not guarantee
+that any preset, rate, calculation, or suggested price is accurate,
+current, or complete, and is not affiliated with, endorsed by, or sponsored
+by any of the third-party platforms named in the Software.
+
+YOU ARE SOLELY RESPONSIBLE FOR INDEPENDENTLY VERIFYING ALL FEES, TAXES,
+AND COSTS WITH THE RELEVANT PLATFORM AND/OR A QUALIFIED PROFESSIONAL BEFORE
+MAKING ANY PRICING, FINANCIAL, OR BUSINESS DECISION. The Software is not
+financial, tax, accounting, or legal advice.
+
+--------------------------------------------------------------------------
+5. THIRD-PARTY NAMES AND TRADEMARKS
+--------------------------------------------------------------------------
+All product names, logos, and brands referenced in the Software are the
+property of their respective owners and are used for identification
+purposes only. Their use does not imply any affiliation or endorsement.
+
+--------------------------------------------------------------------------
+6. INTELLECTUAL PROPERTY
+--------------------------------------------------------------------------
+The Software is licensed, not sold. VORA retains all right, title, and
+interest in and to the Software, including all intellectual property
+rights. All rights not expressly granted to you are reserved by VORA.
+
+--------------------------------------------------------------------------
+7. NO WARRANTY
+--------------------------------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY,
+AND NON-INFRINGEMENT. VORA DOES NOT WARRANT THAT THE SOFTWARE WILL BE
+ERROR-FREE OR UNINTERRUPTED, OR THAT IT WILL MEET YOUR REQUIREMENTS.
+
+--------------------------------------------------------------------------
+8. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL VORA
+BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+EXEMPLARY DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, OR BUSINESS,
+ARISING OUT OF OR RELATED TO YOUR USE OF OR INABILITY TO USE THE SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. VORA'S TOTAL
+AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE AMOUNT YOU
+PAID FOR THE SOFTWARE, OR USD $0 IF THE SOFTWARE WAS PROVIDED AT NO CHARGE.
+
+--------------------------------------------------------------------------
+9. TERMINATION
+--------------------------------------------------------------------------
+This Agreement is effective until terminated. It will terminate
+automatically if you breach any of its terms. Upon termination, you must
+cease all use of the Software and uninstall and delete all copies. Sections
+4 through 8 and 10 survive termination.
+
+--------------------------------------------------------------------------
+10. GOVERNING LAW
+--------------------------------------------------------------------------
+This Agreement is governed by the laws of the State of [Your State], United
+States of America, without regard to its conflict-of-laws principles. If
+any provision of this Agreement is held to be unenforceable, the remaining
+provisions will remain in full force and effect.
+
+--------------------------------------------------------------------------
+11. ENTIRE AGREEMENT
+--------------------------------------------------------------------------
+This Agreement constitutes the entire agreement between you and VORA
+regarding the Software and supersedes all prior or contemporaneous
+understandings.
+
+(c) 2026 Sam Rogers (VORA). All rights reserved.
